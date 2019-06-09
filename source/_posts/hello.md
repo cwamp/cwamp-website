@@ -17,7 +17,7 @@ title: 证件水印助手
 
 ### Latest release
 
-[![](https://img.shields.io/github/release/cwamp/cwa-alimp.svg?color=%23108ee9)](https://github.com/cwamp/cwa-alimp/releases)
+[![](https://img.shields.io/github/release/cwamp/cwa-alimp.svg?color=%23108ee9&label=cwa-alimp)](https://github.com/cwamp/cwa-alimp/releases)
 
 ### 扫码体验
 
