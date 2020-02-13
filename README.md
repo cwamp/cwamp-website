@@ -1,6 +1,6 @@
 ## cwamp blog
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4dad484b-6d80-4eed-915b-87fc8d48c430/deploy-status)](https://app.netlify.com/sites/cwamp/deploys)
+![Travis (.org)](https://img.shields.io/travis/cwamp/cwamp-website)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcwamp.cn)](https://cwamp.cn)
 ![GitHub repo size](https://img.shields.io/github/repo-size/cwamp/cwamp-website)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cwamp/cwamp-website)
