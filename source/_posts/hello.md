@@ -23,3 +23,13 @@ title: 证件水印助手
 
 ![](https://raw.githubusercontent.com/cwamp/cwamp-alipay/master/images/code.jpg)
 
+
+## [头条小程序](https://github.com/cwamp/cwamp-toutiao)
+
+### Latest release
+
+[![](https://img.shields.io/github/release/cwamp/cwamp-toutiao.svg?color=%23108ee9&label=cwamp-toutiao)](https://github.com/cwamp/cwamp-toutiao/releases)
+
+### 扫码体验
+
+![](https://raw.githubusercontent.com/cwamp/cwamp-toutiao/master/images/code.png)
